@@ -44,3 +44,15 @@
    7. Subscribe/unsubscribe button
    8. Type tag
    9. Field tag
+2. `Question Card`: This card will have the following UI elements:
+   1. Question title
+   2. Image (optional)
+   3. Radio buttons (if MCQ type question)
+   4. Checkboxes (optional)
+   5. File input button (optional)
+   6. [Select](https://material-ui.com/components/selects/) (optional)
+   7. [Slider](https://material-ui.com/components/slider/) (optional)
+   8. [Switch](https://material-ui.com/components/switches/) (optional)
+   9. Text Fields
+      1. Single line
+      2. Multi line
