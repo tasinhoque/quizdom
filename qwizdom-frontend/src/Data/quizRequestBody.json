@@ -1,0 +1,25 @@
+{
+    "courseId": 0,
+    "stages":[
+        {
+            "stageId" : 0,
+            "questions" :[
+                {
+                    "questionId": 0,
+                    "type": "Mcq"
+                },
+                {
+                    "questionId": 1,
+                    "type":"Checkbox"
+                }
+            ]
+
+        },
+        {
+            "stageId":1,
+            "questions":[
+
+            ]
+        }
+    ]
+}
