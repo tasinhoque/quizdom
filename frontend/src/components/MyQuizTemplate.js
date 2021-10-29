@@ -1,5 +1,5 @@
 import { useRef, useState, useEffect } from 'react';
-import { SingleCard } from '../components';
+import { SingleCard } from '.';
 import {
   Grid,
   Paper,

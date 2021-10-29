@@ -8,7 +8,7 @@ import FormGroup from '@material-ui/core/FormGroup';
 import Switch from '@material-ui/core/Switch';
 import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
-import { ReactComponent as ReactLogo } from './../assets/check.svg';
+import { ReactComponent as ReactLogo } from '../assets/check.svg';
 import CloseIcon from '@material-ui/icons/Close';
 import CheckIcon from '@material-ui/icons/Check';
 import TextareaAutosize from '@material-ui/core/TextareaAutosize';

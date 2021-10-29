@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { SingleCard } from '../components';
+import { SingleCard } from '.';
 import Pagination from '@material-ui/lab/Pagination';
 import { Typography, TextField, InputAdornment } from '@material-ui/core';
 import { withRouter } from 'react-router-dom';

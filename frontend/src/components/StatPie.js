@@ -8,7 +8,7 @@ import React, {
 import { makeStyles } from '@material-ui/core/styles';
 import api from '../api';
 import CircularProgress from '@material-ui/core/CircularProgress';
-import { Header } from '../components';
+import { Header } from '.';
 import { useParams } from 'react-router';
 import { useHistory } from 'react-router-dom';
 import Paper from '@material-ui/core/Paper';
